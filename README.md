@@ -22,7 +22,7 @@ A modern note-taking app with auto-save, Google login, and AI-powered enhancemen
 ## 🔧 Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/ai-note-editor.git
+git clone https://github.com/Dulon18/AI-Note-Editor.git
 cd ai-note-editor
 cp .env.example .env
 composer install
