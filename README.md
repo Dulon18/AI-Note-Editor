@@ -10,6 +10,10 @@ A modern note-taking app with auto-save, Google login, and AI-powered enhancemen
 ![login](https://github.com/user-attachments/assets/dbf8ee34-563e-4a71-8882-54ba355fe1ee)
 
 
+![create new note](https://github.com/user-attachments/assets/83966312-72c4-4060-8a3c-22e780d0aaa5)
+
+
+
 ## ✨ Features
 
 - Google OAuth login
