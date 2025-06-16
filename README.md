@@ -2,6 +2,14 @@
 
 A modern note-taking app with auto-save, Google login, and AI-powered enhancements.
 
+![home 2](https://github.com/user-attachments/assets/56b66724-1ca6-4fe1-adc4-9df1df604520)
+
+![home](https://github.com/user-attachments/assets/805ca1f4-abb5-44c5-a49f-9ede481a31eb)
+
+
+![login](https://github.com/user-attachments/assets/dbf8ee34-563e-4a71-8882-54ba355fe1ee)
+
+
 ## ✨ Features
 
 - Google OAuth login
@@ -29,3 +37,5 @@ composer install
 php artisan key:generate
 npm install && npm run dev
 php artisan migrate
+
+
