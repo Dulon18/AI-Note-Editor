@@ -4,14 +4,29 @@ A modern note-taking app with auto-save, Google login, and AI-powered enhancemen
 
 
 <p align="center">
+  <strong>Home Page</strong><br />
   <img src="https://github.com/user-attachments/assets/56b66724-1ca6-4fe1-adc4-9df1df604520" width="600" alt="Home 2" />
-  <img src="https://github.com/user-attachments/assets/805ca1f4-abb5-44c5-a49f-9ede481a31eb" width="600" alt="Home" />
-  <img src="https://github.com/user-attachments/assets/dbf8ee34-563e-4a71-8882-54ba355fe1ee" width="600" alt="Login" />
-  <img src="https://github.com/user-attachments/assets/5547b9a9-678c-45b3-842a-b01b7411698d" width="600" alt="Dashboard" />
-  <img src="https://github.com/user-attachments/assets/83966312-72c4-4060-8a3c-22e780d0aaa5" width="600" alt="Create New Note" />
 </p>
 
+<p align="center">
+  <strong>Home Page (After Login View)</strong><br />
+  <img src="https://github.com/user-attachments/assets/805ca1f4-abb5-44c5-a49f-9ede481a31eb" width="600" alt="Home" />
+</p>
 
+<p align="center">
+  <strong>Login Page</strong><br />
+  <img src="https://github.com/user-attachments/assets/dbf8ee34-563e-4a71-8882-54ba355fe1ee" width="600" alt="Login" />
+</p>
+
+<p align="center">
+  <strong>Dashboard</strong><br />
+  <img src="https://github.com/user-attachments/assets/5547b9a9-678c-45b3-842a-b01b7411698d" width="600" alt="Dashboard" />
+</p>
+
+<p align="center">
+  <strong>Create New Note</strong><br />
+  <img src="https://github.com/user-attachments/assets/83966312-72c4-4060-8a3c-22e780d0aaa5" width="600" alt="Create New Note" />
+</p>
 
 
 ## ✨ Features
